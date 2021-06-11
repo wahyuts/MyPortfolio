@@ -5,5 +5,7 @@ here is the link :
 # Link Travelook website
 https://travelook108.herokuapp.com/ <br>
 status : still continues in development for better quality <br>
+link repo : https://github.com/wahyuts/Travelook <br>
+<br>
 warning : this website still not responsive, res 1300 and 1900 will be saved
 
