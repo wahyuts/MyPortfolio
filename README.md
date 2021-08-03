@@ -12,7 +12,8 @@ warning : this website still not responsive, res 1300 and 1900 will be saved
 # Social Media Web BE Firebase
 Link deploy web : - <br>
 status : still in developing <br>
-link repo : https://github.com/wahyuts/Travelook <br>
+link repo : https://github.com/wahyuts/Social-media-web-BE-Firebase <br>
+
 
 
 
