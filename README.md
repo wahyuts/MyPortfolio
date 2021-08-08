@@ -13,6 +13,7 @@ status : still continues in development for better quality <br>
 link repo : https://github.com/wahyuts/Travelook <br>
 <br>
 warning : this website still not responsive, res 1300 and 1900 will be saved
+          Link sometimes error and need to be refresh
 
 # Social Media Web BE Firebase
 Link deploy web : - <br>
@@ -20,7 +21,7 @@ status : still in developing <br>
 link repo : https://github.com/wahyuts/Social-media-web-BE-Firebase <br>
 
 # Simple Web Ninja (tutor nextJS)
-Link deploy web : - <br>
+Link deploy web : https://simple-next-app-one.vercel.app/ <br>
 status : Completed <br>
 link repo : https://github.com/wahyuts/Simple-next-app <br>
 
