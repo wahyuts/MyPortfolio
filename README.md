@@ -5,7 +5,7 @@ here is the link :
 # My personal website (Made in NextJS)
 Link deploy web : - <br>
 status : completed and continues upgrade <br>
-link repo : https://github.com/wahyuts/Social-media-web-BE-Firebase <br>
+link repo : https://github.com/wahyuts/My-personal-website <br>
 
 # Link Travelook website
 https://travelook108.herokuapp.com/ <br>
