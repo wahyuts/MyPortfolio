@@ -3,7 +3,7 @@ This is all my portfolio that i've been made, the code maybe still not clean and
 here is the link :
 
 # My personal website (NextJS)
-Link deploy web : - <br>
+Link deploy web : https://wtt-personal-website-po3kyq5mz-wahyuts.vercel.app/ <br>
 status : completed and continues upgrade <br>
 link repo : https://github.com/wahyuts/My-personal-website <br>
 
