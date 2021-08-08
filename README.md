@@ -22,7 +22,7 @@ link repo : https://github.com/wahyuts/Social-media-web-BE-Firebase <br>
 # Simple Web Ninja (tutor nextJS)
 Link deploy web : - <br>
 status : Completed <br>
-link repo : https://github.com/wahyuts/Social-media-web-BE-Firebase <br>
+link repo : https://github.com/wahyuts/Simple-next-app <br>
 
 
 
