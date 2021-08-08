@@ -28,7 +28,7 @@ link repo : https://github.com/wahyuts/Simple-next-app <br>
 # Robo Friends (React)
 Link deploy web : https://robo-friends-self.vercel.app/ <br>
 status : Completed <br>
-link repo : https://github.com/wahyuts/Simple-next-app <br>
+link repo : https://github.com/wahyuts/Robo-Friends <br>
 
 
 
