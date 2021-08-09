@@ -1,5 +1,5 @@
 # MyPortfolio
-This is all my portfolio that i've been made, the code maybe still not clean and tidy because the the the work is not done,..or the development still continues until perfect. <br>
+This is all my portfolio that i've been made, some of them have been done and the other still on progress or still in developing. <br>
 here is the link :
 
 # My personal website (NextJS)
