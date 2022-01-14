@@ -7,6 +7,12 @@ Link deploy web : https://wtt-personal-website.vercel.app/ <br>
 status : completed and continues upgrade <br>
 link repo : https://github.com/wahyuts/My-personal-website <br>
 
+# Camapign website (US Version) (NextJs)
+Link web : https://us.campaign.com/ <br>
+status : completed <br>
+link repo : https://github.com/wahyuts/US-Campaign-Website <br>
+<br>
+
 # Link Travelook website (React)
 https://travelook108.herokuapp.com/ <br>
 status : still continues in development for better quality <br>
