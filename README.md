@@ -13,6 +13,12 @@ status : completed <br>
 link repo : https://github.com/wahyuts/US-Campaign-Website <br>
 <br>
 
+# Twix simple media social (React)
+Link deploy web : https://twix-media-social-webapp.vercel.app/ <br>
+status : completed <br>
+link repo : https://github.com/wahyuts/Twix-media-social-webapp <br>
+<br>
+
 # Campflix movie website (React)
 Link deploy web : https://campflix.vercel.app/ <br>
 status : completed <br>
