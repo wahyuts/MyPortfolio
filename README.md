@@ -13,6 +13,12 @@ status : completed <br>
 link repo : https://github.com/wahyuts/US-Campaign-Website <br>
 <br>
 
+# Campflix movie website (React)
+Link deploy web : https://campflix.vercel.app/ <br>
+status : completed <br>
+link repo : https://bitbucket.org/wahyuts/campflix/ <br>
+<br>
+
 # Link Travelook website (React)
 https://travelook108.herokuapp.com/ <br>
 status : still continues in development for better quality <br>
